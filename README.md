@@ -12,5 +12,3 @@ This project is a starting point for my Flutter journey.
 - Should save the all entries in SQLite.
 - Should have a Google Sign In.
 - Should sync all entries to your Google Sheets.
-
-"# personal_expense" 
