@@ -1,6 +1,6 @@
 # personal_expense
 
-Exploring Flutter Week 01. 
+Exploring Flutter Week 01.
 [October 31, 2020 - November 06, 2020]
 
 ## Getting Started
